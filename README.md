@@ -12,14 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I’m a B.Tech Information Technology Student at **SASTRA Deemed University**.
-- 👨‍💻 Passionate about **Software Development** and **Web Technologies**.
-- 🔭 Currently working on **Web Development Projects** and **Backend Frameworks**.
-- 🌱 Actively learning **Backend Development**, **Maven**, and **Full-stack Concepts**.
-- 👯 Looking to collaborate on **Open Source** and **Real-world Projects**.
-- 💬 Ask me about **Programming**, **Web Development**, and **Tech Stacks**.
-- ⚡ Fun fact: I love blending coding with creative design using **Canva**!
-
+🎓 I’m a B.Tech Information Technology Student at **SASTRA Deemed University**. 👨‍💻 Passionate about **Software Development** and **Web Technologies**. Actively learning **Backend Development**, **Maven**, and **Full-stack Concepts**. Looking to collaborate on **Open Source** and **Real-world Projects**. 
 ---
 
 ## 🌐 Connect with me
@@ -47,23 +40,6 @@
 </p>
 
 ---
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishoreRam07&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KishoreRam07&theme=monokai&no-frame=true&no-bg=true" alt="Trophies" />
-</p>
-
----
-
 ## 🚀 Top Languages
 
 <p align="center">
